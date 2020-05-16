@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 13
+Implementation-Title: springboot-crud-2-database-connect
+Implementation-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
